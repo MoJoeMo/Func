@@ -1,0 +1,7 @@
+C:\VisualStudioExperiments\FuncExplained\FuncExplained\bin\Debug\FuncExplained.exe.config
+C:\VisualStudioExperiments\FuncExplained\FuncExplained\bin\Debug\FuncExplained.exe
+C:\VisualStudioExperiments\FuncExplained\FuncExplained\bin\Debug\FuncExplained.pdb
+C:\VisualStudioExperiments\FuncExplained\FuncExplained\obj\Debug\FuncExplained.csprojResolveAssemblyReference.cache
+C:\VisualStudioExperiments\FuncExplained\FuncExplained\obj\Debug\FuncExplained.exe
+C:\VisualStudioExperiments\FuncExplained\FuncExplained\obj\Debug\FuncExplained.pdb
+C:\VisualStudioExperiments\FuncExplained\FuncExplained\obj\Debug\FuncExplained.csproj.CoreCompileInputs.cache
